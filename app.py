@@ -317,7 +317,7 @@ else:
 st.markdown(
     """
     <div style="text-align: center; padding: 25px; background: rgba(255, 255, 255, 0.95); border-radius: 12px; margin-top: 25px; box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);">
-        <h3 style="color: #a1c4fd; animation: float 3s infinite; font-size: 1.8rem; font-weight: 600;">Developed by Sarfraz</h3>
+        <h3 style="color: #a1c4fd; animation: float 3s infinite; font-size: 1.8rem; font-weight: 600;">Developed by Taha</h3>
         <p style="color: #1e2a44; font-size: 1rem;">Navigating the financial multiverse</p>
         <div style="margin-top: 8px;">
             <span style="font-size: 1.2rem; animation: rotate 12s linear infinite;">🪐</span>
